@@ -13,6 +13,10 @@
 * For average and difficult level questions, after the user has typed in the option, game must ask him to confirm his choice
 * If the answer is not correct, he walks away with the price earned at the last checkpoint
 
+### Following is the money distribution in various rounds and checkpoints
+
+![](IMAGES/checkpoints.png)
+
 <br/>
 
 ## Output
